@@ -1,0 +1,3 @@
+{
+  "extensions": ["./edict-agent/index.ts"]
+}
